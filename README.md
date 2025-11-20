@@ -1,4 +1,4 @@
-# Hi there, I'm Willian Pereira <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+## Hi there, I'm Willian Pereira <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 I am a Frontend Developer with a solid foundation in Quality Assurance, which gives me a significant advantage when developing: I write code with testability, maintainability, and robustness in mind from the very first commit.
 
@@ -8,11 +8,10 @@ I have a degree in Information Systems and experience working remotely with B2B 
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/26/45/47/2645475a9eef90f4a1fe67b76ae7d9fa.gif" width="500" />
+<img src="https://i.pinimg.com/originals/26/45/47/2645475a9eef90f4a1fe67b76ae7d9fa.gif" width="400" />
 
 </div>
 
-<br/>
 
 ## 🚀 Tech Stack
 
@@ -61,11 +60,8 @@ I have a degree in Information Systems and experience working remotely with B2B 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willi4nn&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willi4nn&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Willi4nn&theme=synthwave&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+
 </div>
 
 <br/>
