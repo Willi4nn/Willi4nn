@@ -13,11 +13,13 @@ I have a degree in Information Systems and experience working remotely with B2B 
 </div>
 
 
+
 ## 🚀 Tech Stack
 
 <div align="center">
 
-### Frontend Development
+**Frontend Development**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -25,7 +27,8 @@ I have a degree in Information Systems and experience working remotely with B2B 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
+**Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -34,7 +37,8 @@ I have a degree in Information Systems and experience working remotely with B2B 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Quality Assurance
+**DevOps & Quality Assurance**
+
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
@@ -54,8 +58,13 @@ I have a degree in Information Systems and experience working remotely with B2B 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willi4nn&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willi4nn&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Willi4nn&theme=synthwave&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 
+</div>
+
+<div align="center">
+  
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Willi4nn&theme=synthwave&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  
 </div>
 
 ## 🤝 Let's Connect!
